@@ -35,7 +35,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-4">
-                    <form action="" class="mt-5 mb-5">
+                    <form action="agregarDatos.php" method="POST" class="mt-5 mb-5">
                         <div class="form-group">
                             <label for="nombre">NOMBRE</label>
                             <input type="text" class="form-control" id="nombre" name="nombre">
